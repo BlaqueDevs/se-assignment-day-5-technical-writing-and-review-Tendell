@@ -22,7 +22,13 @@ To make content accessible to those with limited technical knowledge, use clear 
 
 
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
+
+It communicates information succinctly and efficiently so that readers understand the message quickly, without having to decipher complicated sentences or vague jargon.
+
+
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
+
+
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
 ## 8. What types of visuals (e.g., diagrams, charts) are most effective for different kinds of technical information?
 ## 9. How do headings and subheadings improve the readability and organization of technical documents?
