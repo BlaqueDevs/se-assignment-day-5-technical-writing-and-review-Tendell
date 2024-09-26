@@ -55,3 +55,5 @@ To create an effective headings and subheadings ensure that you Capture Readers 
 A comprehensive README file should include an introduction to the project, installation instructions, usage examples, contribution guidelines, and licensing information.
 
 ## 12. How can you succinctly convey the purpose and key features of a product?
+
+The best way to explain the features and benefits of an item to a customer is to relate the product features to the customer's needs in a "so that you can statement".
