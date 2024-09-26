@@ -13,6 +13,9 @@ To tailor your content to different audience types, you can: deeply understand y
 
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
+
+You can ask about their background, their expectations, their familiarity with the concepts, and their learning goals. This will help you tailor your speech to their needs and interests, as well as avoid repeating information they already know or skipping over details they don't understand.
+
 ## 4. What techniques can you use to ensure your content is accessible to those with limited technical knowledge?
 ## 5. Why is it important to use plain language instead of technical jargon in your writing?
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
